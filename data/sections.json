@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": "code-sith",
+    "categoryId": "basic",
+    "name": "Code Sith",
+    "description": "Le code fondamental des Sith",
+    "locked": false,
+    "levelRequired": 0
+  }
+]
