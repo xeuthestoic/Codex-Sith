@@ -1,10 +1,11 @@
 [
   {
-    "id": "code-sith",
-    "categoryId": "basic",
-    "name": "Code Sith",
-    "description": "Le code fondamental des Sith",
-    "locked": false,
-    "levelRequired": 0
+    "id": "article-1",
+    "sectionId": "code-sith",
+    "title": "Code Sith",
+    "content": "La paix n'est que mensonge...",
+    "level": "Beginner",
+    "tags": ["Code Sith"],
+    "image": null
   }
 ]
